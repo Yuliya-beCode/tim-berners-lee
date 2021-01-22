@@ -2,17 +2,10 @@ Tim Berners-Lee
 
 Mission objectives
 
-    Make a page on Tim Berners-Lee
-
-    Understand the principles of HTML and CSS
-
-    Present the page and code
+    During this task I had to create a page on Tim Berners-Lee, understand the principles of HTML and CSS and present the page and code
 
 
 Instructions
-
-
-Setup
 
     create the repository
 
