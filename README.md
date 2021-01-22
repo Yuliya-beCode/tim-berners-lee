@@ -1,6 +1,6 @@
-#Tim Berners-Lee
+Tim Berners-Lee
 
-#Mission objectives
+Mission objectives
 
     Make a page on Tim Berners-Lee
 
@@ -9,7 +9,7 @@
     Present the page and code
 
 
-#Instructions
+Instructions
 
 
 Setup
@@ -39,3 +39,4 @@ HTML
     The code must be in HTML5
 
 
+Please find the created page under the following [link](https://yuliya-becode.github.io/tim-berners-lee/index.html)
