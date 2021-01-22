@@ -1,0 +1,142 @@
+
+body {
+    background-color: #EBEBEB;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 20px;
+    padding: 70px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+#foto {
+    border-radius: 50%;
+    border-style:groove;
+}
+
+.first h1 {
+    color: #DD5D6E;
+    font-family: 'Open Sans', sans-serif;;
+}
+
+.first h2 {
+    color: #7D7D7D;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.first p {
+    font-family: 'Open Sans', sans-serif;
+    color: #A6A7B4;
+    padding-right: 30px;
+    padding-left: 30px;
+    text-align: justify;
+}
+
+button {
+    background-color: #DD5555;
+    color: #FFFFFF;
+    border-radius: 5px;
+    width: 180px;
+    box-sizing: inherit;
+    font-family: 'Open Sans', sans-serif;
+    height: 5vh;
+    
+}
+
+
+.first {
+    background-color: #FFFFFF;
+    grid-column-start: 2;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+}
+
+.second {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-column-gap: 0px;
+    grid-template-rows: auto auto;
+    grid-gap: -25px;
+    color: #CCCCCC;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #FFFFFF;
+    grid-column-start: 2;
+    text-align: center;
+    padding: 50px;
+    padding-left: 30px;
+    padding-right: 30x;
+    font-size: 30px;
+}
+
+#fa {
+    grid-column-start: 1;
+    grid-row-start: 1;
+    size: 20px;
+    
+    
+}
+
+#Facebook {
+    grid-column-start: 1;
+    grid-row-start: 2;
+}
+
+#Linkedin {
+    grid-column-start: 2;
+    grid-row-start: 2;
+}
+
+#Twitter {
+    grid-column-start: 3;
+    grid-row-start: 2;
+}
+
+
+.third {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto auto;
+    grid-column-gap: -10px;
+    background-color: #FFFFFF;
+    grid-column-start: 2;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+
+}
+
+.third #movies {
+    grid-column-start: 2;
+    text-align: left;
+    color: #7D7F8C;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.pictures {
+    grid-column-start: 1;
+    padding-top: 40px;
+    padding-left: 30px;
+}
+
+.text {
+    grid-column-start: 2;
+    padding-right: 20px;
+    padding-left: -20px;
+}
+
+.third h2 {
+    color: #898884;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.third p {
+    font-family: 'Open Sans', sans-serif;
+    color: #A6A7B4;
+    padding-right: 30px;
+    padding-left: 30px;
+    text-align: justify;
+}
