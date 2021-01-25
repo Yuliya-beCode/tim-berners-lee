@@ -48,7 +48,7 @@ button {
     background-color: #FFFFFF;
     grid-column-start: 2;
     text-align: center;
-    padding: 20px 0;
+    padding: 20px;
     font-size: 30px;
 }
 
@@ -63,16 +63,14 @@ button {
     background-color: #FFFFFF;
     grid-column-start: 2;
     text-align: center;
-    padding: 50px;
-    padding-left: 30px;
-    padding-right: 30x;
+    padding: 20px;
     font-size: 30px;
 }
 
 #fa {
     grid-column-start: 1;
     grid-row-start: 1;
-    size: 20px;
+    size: 10px;
     
     
 }
@@ -101,7 +99,7 @@ button {
     background-color: #FFFFFF;
     grid-column-start: 2;
     text-align: center;
-    padding: 20px 0;
+    padding: 20px;
     font-size: 30px;
 
 }
@@ -147,3 +145,13 @@ button {
   .second {width: 100%;}
   .third {width: 100%;}
 }
+
+
+
+@media only screen and (min-width: 300px) {
+  /* For mobile phones: */
+  .first {width: 100%;}
+  .second {width: 100%;}
+  .third {width: 100%;}
+}
+
